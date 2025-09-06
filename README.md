@@ -1,7 +1,7 @@
 # Tomasulo’s Algorithm Simulator
 
 Java implementation of Tomasulo’s algorithm for instruction scheduling and out-of-order execution.  
-Built as part of the Computer Architecture course at GUC.
+Built as part of the Microprocessors course at GUC.
 
 ---
 
